@@ -1,0 +1,70 @@
+{
+    "deno.enable": true,
+    "deno.unstable": true,
+    // "deno.enable": true,
+    "deno.lint": true,
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+    // "deno.enable": true,
+    // "editor.formatOnSave": true,
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    // ==================
+    // "typescript.tsdk": "node_modules/typescript/lib",
+    // "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSaveMode": "modifications",
+    // "editor.formatOnSave": true,
+    // "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        //// "source.organizeImports": false,
+        "source.fixAll.eslint": true
+    },
+    // "eslint.alwaysShowStatus": true,
+    // "eslint.enable": true,
+    // "eslint.workingDirectories": [
+    //     {
+    //         "mode": "auto"
+    //     }
+    // ],
+    // "eslint.validate": [
+    //     "typescript",
+    //     "typescriptreact"
+    // ]
+    //----------------
+    // "editor.fontFamily": "Fira Code",
+    // "editor.fontLigatures": true
+    "workbench.editor.tabSizing": "shrink",
+    // "explorer.sortOrder": "type"
+    // "editor.cursorStyle": "block" ,
+    // "editor.cursorBlinking": "smooth" ,
+    //----------------
+    // "files.trimFinalNewlines": true
+    // "editor.acceptSuggestionOnEnter": "off" 
+    // "editor.hover.sticky": true,
+    // "editor.hover.above": false,
+    // "editor.hover.delay": 1300,
+    // "editor.suggest.snippetsPreventQuickSuggestions": true,
+    // "editor.suggestFontSize": 10,
+    "editor.quickSuggestionsDelay": 200,
+    // "editor.quickSuggestions": false,
+    // "editor.hover.enabled": false,
+    // "editor.parameterHints.enabled": false
+    "emmet.excludeLanguages": [
+        "markdown",
+        "typescriptreact",
+        "typescript",
+    ],
+    "editor.wordBasedSuggestions": false,
+    // "[python]": {
+    //     "editor.defaultFormatter": "ms-python.python"
+    //     // "python.formatting.provider": "yapf",
+    // },
+    // "[python]": {
+    //     "editor.defaultFormatter": "ms-python.python"
+    // },
+    // "editor.wordBasedSuggestionsMode": "matchingDocuments",
+    // "editor.suggest.showWords": false,
+    // "editor.wordBasedSuggestionsMode": 
+    //----------------
+}

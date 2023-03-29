@@ -1,0 +1,37 @@
+{
+  "name": "chatbotAiWithLongtermMemory",
+  "description": "An example app created with Deno",
+  "author": "aminZarei72",
+  "type": "module",
+  "tasks": {
+    "firtInit": "deno run --lock=deno.lock --lock-write --allow-env --allow-sys --allow-read=. src/main.ts ",
+    "dev": "deno run --allow-read=./  --allow-write=./  --allow-net='172.17.0.2:5001' --unstable --cached-only   --allow-env --allow-sys  --watch=./src/  ./src/main.ts  ",
+    "selfTalk": "deno run --allow-read=./  --allow-write=./  --allow-net='172.17.0.2:5001'  --cached-only --allow-env --allow-sys  ./src/selfTalk.ts  ",
+    "feed": "deno run --allow-read=./  --allow-write=./  --allow-net='172.17.0.2:5001'  --cached-only --allow-env --allow-sys  ./src/feedDb.ts  ",
+    "reset": "deno cache --reload --lock=deno.lock  --allow-env --allow-sys src/main.ts ",
+    "test": "deno test --cached-only  --allow-env  --allow-read src/main_test.ts"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/aminZarei72/chatbotAiWithLongtermMemory",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminZarei72/chatbotAiWithLongtermMemory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aminZarei72/chatbotAiWithLongtermMemory/issues"
+  },
+  "dependencies": {
+    "ts-firebase-rules": "^0.1.12"
+  },
+  "keywords": [
+    "chatbot",
+    "chatgpt",
+    "long-term memory",
+    "ai",
+    "godel",
+    "typescript",
+    "firebase",
+    "ts-firebase-rules"
+  ]
+}

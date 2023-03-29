@@ -1,0 +1,1089 @@
+id,dialogue,topic
+hiddentest_0,"#Person1#: I have an issue.
+#Person2#: What is your problem?
+#Person1#: There were charges on my debit card that I never made.
+#Person2#: Do you have a statement for your debit card?
+#Person1#: I do.
+#Person2#: Which charges are you talking about?
+#Person1#: It's the last four charges.
+#Person2#: We're going to have to do an investigation.
+#Person1#: Is that going to take long?
+#Person2#: I'm not sure, but in the meantime we will freeze these charges.
+#Person1#: That's wonderful. Thank you.",financial service
+hiddentest_1,"#Person1#: I was meaning to talk to you about something.
+#Person2#: What's going on?
+#Person1#: Were you having a party in your apartment last Friday?
+#Person2#: Yes, I had a little party.
+#Person1#: It was very loud.
+#Person2#: I didn't intend on being too loud.
+#Person1#: It's fine if you want to have people over, but I couldn't sleep with the noise.
+#Person2#: I really do apologize for all the noise.
+#Person1#: Next time, do you think that you could keep it down?
+#Person2#: Will do.
+#Person1#: Thank you very much.
+#Person2#: Okay, and once again I'm sorry for keeping you up.",complaint
+hiddentest_2,"#Person1#: Hi, I am your new neighbor and was wondering if I could ask you a question or two.
+#Person2#: Hi! I would be happy to answer any questions you might have.
+#Person1#: Everyone here seems very friendly.
+#Person2#: Yes, many of us have lived here a long time and know each other well.
+#Person1#: How long have you lived here?
+#Person2#: I have lived in this building for ten years.
+#Person1#: When I get settled, would you consider giving me a list of places you use, like cleaners and grocery stores?
+#Person2#: I can help you with that. Would you like to go to the local farmer's market with me this morning?
+#Person1#: That would be great!
+#Person2#: Fine. I'll knock on your door around ten o'clock then.",new neighbor
+hiddentest_3,"#Person1#: Yes, I agree. Do you want to take it to a mechanic to have it checked out?
+#Person2#: I already took care of that yesterday.
+#Person1#: That's good. Have you discussed the price with the seller?
+#Person2#: Yes, I think we've agreed upon a fair price.
+#Person1#: Have you set up your financing to pay for this car?
+#Person2#: Yes, my parents are going to loan me the money.
+#Person1#: That's good. Would you like me to go talk to the seller with you and drive your car home?
+#Person2#: That would be a great help!
+#Person1#: Glad to be of help. I can't wait to see your new car!",buy a car
+hiddentest_4,"#Person1#: Yes, this city is thousands of years old and has quite a history!
+#Person2#: I really love this temple we are visiting.
+#Person1#: As you enter the temple, please remove your shoes as the others are doing.
+#Person2#: It is so quiet here.
+#Person1#: Yes, they are showing respect to their gods. People come here to pray and meditate.
+#Person2#: I noticed that the women all have some sort of head covering.
+#Person1#: It is a tradition that women cover their heads while in the temple.
+#Person2#: I noticed that all of the people were eating with their hands at dinner last night.
+#Person1#: Yes, that is another custom that people practice here.",visit a temple
+hiddentest_5,"#Person1#: Well, Miss Shen, have you made the plan for our tour in New York?
+#Person2#: Yes, Mr. Haley. Shall I explain the details of the itinerary now?
+#Person1#: No, not now. But would you tell me how you arrange your schedule for May 28?
+#Person2#: Let me look at the plan. Ah, yes, Mr. Haley. We'll visit Ford Company in the morning from 8:30 to 10:00. After 10:00. the deputy general manager of the company, Mr. Blake, will drive us to the hotel, At the some time, he'll talk something about the company with you.
+#Person1#: Is there anything else before lunch time, Miss Shen?
+#Person2#: I'm afraid not.
+#Person1#: In that case, would you please change the plan a little bit? We shall have lunch with Mr. Goode, The General Director of the Sun Chemical Corporation. He will leave for Shanghai in the afternoon.
+#Person2#: All right. What about Mr. Blake?
+#Person1#: We will finish talking before lunch time and join in the talk with Mr. Goode during the lunchtime.
+#Person2#: Yes, Mr. Haley. I'll revise the schedule.",tour schedule
+hiddentest_6,"#Person1#: Mr. Dore?
+#Person2#: Yes.
+#Person1#: How do you do? I'm Su Hua in Public Relation Department. Welcome to Beijing. I'll accompany you to the hotel. 
+#Person2#: I must say this hotel is really nice. It's very impressive.
+#Person1#: Yes. In fact, it's considered one of the best hotels in Beijing. You'll get very good service here.
+#Person2#: I think so.
+#Person1#: Please take a look at the itinerary we prepared for you, and let me know if there's any problem.
+#Person2#: Thank you.",casual talk
+hiddentest_7,"#Person1#: What do you usually do at night?
+#Person2#: The same as in America. Going to a beer house, drinking, chatting and dancing disco. Sometimes I dance ballroom and sing karaoke with friends.
+#Person1#: My father used to work in China for some years. He often complained that he couldn't find a place for fun in the evening. Most people stayed at home and very few could be seen walking on the street at nine or ten o'clock.
+#Person2#: Now it's quite different. Night life is very much enriched. It's very common for young people to enjoy themselves even overnight.
+#Person1#: En. How about another Martini?
+#Person2#: OK.",night life
+hiddentest_8,"#Person1#: Miss Chen, I'll go to America to spend my holiday. Would you please book a seat on a flight from Beijing to Washington this afternoon?
+#Person2#: All right, Mr. Kinite. A telex message from London has just come in. Shall I get it for you?
+#Person1#: Yes, please give it to me now. By the way, any orders today?
+#Person2#: Yes. I've forwarded them to the Sales Department. Here's the telex message from London.
+#Person1#: Thank you.
+#Person2#: Shall I hold your business mail while you are gone or handle the letters myself?
+#Person1#: Handle the letters yourself and keep them on files. But forward private mails to me two weeks before the end of my holiday.
+#Person2#: I see.
+#Person1#: That will be all for now. I'll call on you if I need anything else.",holiday preparation
+hiddentest_9,"#Person1#: I am interested in buying auto insurance.
+#Person2#: Sure, I can help you. Did you bring all of your registration papers?
+#Person1#: Yes, I brought everything with me.
+#Person2#: Is your car with you?
+#Person1#: Yes, it is out in the parking lot.
+#Person2#: Wonderful. Let's go out and check to see what shape it is in.
+#Person1#: OK, can you help me figure out what I should insure my car for?
+#Person2#: I will look it up on the Blue Book list and we will factor in its condition.
+#Person1#: What else do I need to consider?
+#Person2#: Yes, you need to figure in liability for damage to the other car as well as injury issues as well.",buy auto insurance
+hiddentest_10,"#Person1#: So tell me again, why couldn't you get the supplies I ordered?
+#Person2#: Well I ordered them when you asked, but the supplier said they might need to back order them.
+#Person1#: When do you think they will finally arrive?
+#Person2#: I think maybe by Tuesday.
+#Person1#: If they don't arrive by then, what are our options?
+#Person2#: I could try another supplier down the street.
+#Person1#: That would work for me.
+#Person2#: OK, I will stay on it and let you know how it's going.
+#Person1#: Thank you for taking care of the problem.
+#Person2#: Thank you for your business. We appreciate you as a client.",goods order
+hiddentest_11,"#Person1#: What do you think about our new CEO, Matt?
+#Person2#: He certainly comes with great credentials. I think he is just the man to get this company off and running.
+#Person1#: The company he left in order to take this job probably regrets losing him.
+#Person2#: I'm sure they do. He was the one who was supposed to assume the leadership of the company when the current president retires.
+#Person1#: Do you know why he left that company?
+#Person2#: Some people said he was impatient to become the CEO. Others said it was because he didn't have enough say in the company.
+#Person1#: I've heard he had a lot of incentive to join our company. There is a rumor that he was given a million dollars as a bonus and an annual salary of a million dollars.
+#Person2#: Yes, and he also will have an 18% share of any increase in the value of the company.
+#Person1#: If the company does as well as many new high-tech companies have done recently, that could mean a lot of money in his pocket.
+#Person2#: That's true. Our company hasn't started issuing stock yet. I feel certain with his leadership the stock will increase in value rapidly when it does go public.
+#Person1#: That's how it's been with other companies like ours. I hope ours will be the same.",new CEO
+hiddentest_12,"#Person1#: What's wrong with you, madam?
+#Person2#: I'm very hot.
+#Person1#: Here is thermometer. Please check your temperature.
+#Person2#: OK. 
+#Person1#: Oh, your temperature is 39 degrees. You'd better have an injection right away.
+#Person2#: I hate injections. Can I take some pills instead of injection?
+#Person1#: An injection is better than pills.
+#Person2#: It's up to you.
+#Person1#: Here is the prescription for you.
+#Person2#: Thank you. Mr. Wang. By the way, I can't sleep well recently, and I feel dizzy.
+#Person1#: What do you do? Do you get a heavy load?
+#Person2#: I'm the secretary of Director Nag of the Education Bureau. There is a lot of work to do every day.
+#Person1#: I know. You may be too busy with your work. Have a good rest, and you'll be all right again.
+#Person2#: Thank you.",see a doctor
+hiddentest_13,"#Person1#: Is this where I catch the Super Shuttle?
+#Person2#: Yes, this is where you catch the Super Shuttle. Where are you headed?
+#Person1#: I am headed home to Pasadena.
+#Person2#: You can tell where each van is headed by the name on the front of the van. I am the driver for Glendale, but your van should be along in a minute.
+#Person1#: Do you know how much it costs to get to Pasadena?
+#Person2#: I believe the cost of that trip is sixty dollars.
+#Person1#: Do you know if the shuttle goes directly to Pasadena, or does it make a lot of stops?
+#Person2#: Before you pay the driver, you need to ask him. He needs to be upfront with you about the number of stops he will be making.
+#Person1#: Do I need to have exact change?
+#Person2#: You don't need exact change, but it is useful to have smaller bills.",trip
+hiddentest_14,"#Person1#: Morning, Bob! Late again!
+#Person2#: Oh, I'm ever so sorry. Managing Director. I can't tell you how sorry I am.
+#Person1#: Mm what's the excuse this time?
+#Person2#: Ah I just don't know what to say. I must have turned off the alarm clock and gone back to sleep. Because I worked overtime all the night.
+#Person1#: Yeah, and last week one of the children wasn't well?
+#Person2#: I'm really sorry. I promise you it won't happen again.
+#Person1#: Never mind. You're always the latest one every time.",late for work
+hiddentest_15,"#Person1#: What kind of car insurance do you have?
+#Person2#: I went with the Automobile Club.
+#Person1#: Why did you choose that company?
+#Person2#: I looked at the price of the type of insurance that I wanted.
+#Person1#: What should I think about in choosing services?
+#Person2#: There are websites that will figure out what coverage is right for you.
+#Person1#: What did you end up buying?
+#Person2#: Well, my car is very old, so I didn't worry so much about what it would cost to repair it. I did buy a lot of coverage for fixing someone else's car.
+#Person1#: Have you ever had to use your insurance?
+#Person2#: I never had to use my insurance.",car insurance
+hiddentest_16,"#Person1#: We are foreign affairs policemen. We need to ask you some questions. Please tell the truth. You'll bear legal responsibility for what you say.
+#Person2#: I see.
+#Person1#: Do you know why you have been taken here?
+#Person2#: Yes. And I'm very sorry for what I did to that waiter.
+#Person1#: Tell us in detail what happened.
+#Person2#: At about 5 o'clock this afternoon, I went to a small pub for dinner.
+#Person1#: What's the name of the pub, and where is it?
+#Person2#: Chang Jiang Jiu Jia in Chang Jiang Street, Huang Gu District.
+#Person1#: Did you drink?
+#Person2#: Yes. I drank 3 bottles of beer.
+#Person1#: Were you drunk?
+#Person2#: Yeah. It was a shame. I got tipsy and knocked a plate off the table. The plate broke into pieces.
+#Person1#: Did you pay for the broken plate?
+#Person2#: No. I paid only for my dinner but not for the plate.
+#Person1#: Did you apologize?
+#Person2#: No, I didn't. And the waiter just wouldn't let me go.
+#Person1#: Why not?
+#Person2#: He asked me to pay for the plate. I got mad and punched him.
+#Person1#: How many times did you punch him?
+#Person2#: 3 times.
+#Person1#: Where did you punch him?
+#Person2#: One in the mouth and the other two in the face.
+#Person1#: Did he fight back?
+#Person2#: No.
+#Person1#: After investigation, we learned that your punches bruised the waiter's face and loosened one of his teeth.
+#Person2#: I drank too much and didn't know what I was doing then.
+#Person1#: You have infringed upon a citizen's rights.
+#Person2#: I'm so sorry. I'd like to apologize to him and pay his medical expense.
+#Person1#: That's good. You have to pay for the broken plate, too. And according to Article 22 of the Regulations of the People's Republic of China on Administrative Penalties for Public Security, you'll be detained for 5 days.
+#Person2#: Oh! Isn't it too harsh?
+#Person1#: You have the right to appeal against this ruling, of course.
+#Person2#: I won't appeal. I'd rather accept it and be done with it.",foreign affair case
+hiddentest_17,"#Person1#: I want to look at the souvenirs over at the souvenir stand.
+#Person2#: What do you need to buy?
+#Person1#: I usually buy myself some jewelry or some clothing.
+#Person2#: I always buy a lot of things for my family. How about you?
+#Person1#: Yes, they practically swarm me when I get home!
+#Person2#: What are some of their favorite gifts?
+#Person1#: The teenagers like me to bring them tee shirts that you can't get anywhere else.
+#Person2#: This stuff is pretty expensive, isn't it?
+#Person1#: Souvenirs cost a lot for what they are, but we can shop around for better prices.
+#Person2#: Let's go across the street and see what they have over there.",buy souvenirs
+hiddentest_18,"#Person1#: I read that your company is downsizing again. What will that mean for your job?
+#Person2#: It means I'm out of a job. They have already given me a 'pink slip'.
+#Person1#: That's bad news. This has happened to you before, hasn't it?
+#Person2#: Yes. This will be the third time in five years and I'm ready to call it quits.
+#Person1#: What do you mean? You're going to quit working?
+#Person2#: No, I'll still be working, but not for a company. I'm going to be my own boss.
+#Person1#: Doesn't that make you a little nervous? You won't have all the benefits that go with working for a company no retire and no health insurance.
+#Person2#: That is the bad part of it, but I am really tired of being dependent on the whims of big business. It seems that it hasn't been all that secure for me.
+#Person1#: What will you do?
+#Person2#: I've had a couple of friends who have gone out on their own. They say it is the best thing that ever happened to them.
+#Person1#: I know it is the secret dream of a lot of people to be their own boss, especially the younger generation.
+#Person2#: One of my friends just takes temporary jobs. Companies are looking for people with his skills, but only on a temporary basis. So he goes for one company to another, depending on where they need him. He's able to set his own working hours and he makes a lot more than he was when he was working full time. He really likes the freedom he enjoys.
+#Person1#: What does he do when he doesn't have any jobs coming in?
+#Person2#: He goes to a temporary employment agency. It seems he always finds work and doubles what he used to make.
+#Person1#: I hope you find just the right thing for your skills. It would be nice to have a job that gave you more freedom.
+#Person2#: That's why I'm making the change. I want to be able to spend the extra time with my family and it will be great to be working at my home instead of going to the office every day.
+#Person1#: Good luck! With your attitude and ability, I'm sure you'll do well.",unemployment
+hiddentest_19,"#Person1#: How do you plan to pack our order?
+#Person2#: The standard packing. For this kind of products we export, every two dozens are packed in a paper carton, then we pack 10 cartons in one big wooden case.
+#Person1#: The key issue is to make sure that the packing is seaworthy. Of the last goods we received, there were a few items damaged by dampness.
+#Person2#: Yes, we've noticed that, too. But this time each wooden case is lined with plastic sheets from inside, in addition, we've put a 'keep dry' sign on the outside.
+#Person1#: I guess that'll be good enough.",goods packing
+hiddentest_20,"#Person1#: I guess that we won't be going rollerblading today with all this rain!
+#Person2#: Yes, rollerblading in six inches of water would not be fun. What would you like to do instead?
+#Person1#: I think that maybe we could check out the local mall, grab some lunch, and maybe see a movie.
+#Person2#: Yes, that sounds like a relaxing way to check out the local culture and still stay dry.
+#Person1#: What else could we do in bad weather?
+#Person2#: You know, we could take a double-decker bus tour of famous haunted houses and buildings.
+#Person1#: That would be fun, and the rain would only add to the atmosphere.
+#Person2#: There is an old English pub next door. Maybe when we finish with the haunted house, we can duck in there for some brew.
+#Person1#: What a great idea!
+#Person2#: If we are lucky, maybe they'll have some great food at the pub for supper.",tour plan
+hiddentest_21,"#Person1#: Mr. Chen, I will make a brief introduction of the office work to you.
+#Person2#: OK, Miss Liu.
+#Person1#: Our office is under the direct leadership of the general manager. The main task is to handle routine business, such as arranging meetings, meeting visitors, seeing visitors off, assigning work, making plans, sorting out the data and collecting information. All these affairs are very important. I'm sure you'll adapt quickly to the work here.
+#Person2#: I hope so.
+#Person1#: Mr. Chen, do you have anything to say about your work?
+#Person2#: No. By the way, Secretary Liu, would you please tell me what the specific work is for me?
+#Person1#: Sorry, I can't tell you now. After you are familiar with all these jobs, we will discuss the problem.
+#Person2#: That's OK.
+#Person1#: Mr. Chen, If you have something to say about your work while working, please come out. The people here are very helpful.
+#Person2#: All right. Thank you.",office work
+hiddentest_22,"#Person1#: Doctor, why is it that I'm always nervous?
+#Person2#: I think your condition has a lot to do with your way of work and life or habits. Now tell me Mr. Thomson. You smoke, don't you?
+#Person1#: Yes. I'm afraid I do, doctor.
+#Person2#: And rather heavily I imagine.
+#Person1#: Yes, I smoke about forty or fifty a day.
+#Person2#: Are you busy with your work?
+#Person1#: Yes, very busy.
+#Person2#: Did you smoke when you are at work?
+#Person1#: Yes, I do.
+#Person2#: You should do your best to stop.
+#Person1#: I've tried to give up smoking several times, but it's no use. What can I do , doctor?
+#Person2#: In my opinion, you have no choice. Either you make a real effort or there's no chance of your feeling better. You must cut it down gradually and I could prescribe some kind of tranquilizer.",see a doctor
+hiddentest_23,"#Person1#: Excuse me. Is this Hua Guang International Trading Company?
+#Person2#: Yes, that's right. Can I help you?
+#Person1#: Well, I'd like to see your sales manager about contracts for office furniture.
+#Person2#: Thank you. Have you made an appointment, Mr. Huang?
+#Person1#: Er no. I'm afraid I haven't.
+#Person2#: Let me see. Ah, I think the sales manager has a full program today. But would you like to take a seat, please? May I phone his office to find out if he can see you?
+#Person1#: Thanks.
+#Person3#: Mr. Banda's office.
+#Person2#: Hello. This is the reception. I have a Mr. Huang here. He wants to know about office furniture contracts. Is Mr. Banda free to see him?
+#Person3#: I'm afraid he isn't. He is talking with an important client now.
+#Person2#: I see. The sales manager is busy at the moment, Sir. Please leave your card and I'll ask him to get in touch with you. Perhaps he can arrange an appointment a few days later.
+#Person1#: All right. Here you are.
+#Person2#: Thank you. Goodbye.
+#Person1#: Bye.",a failed meeting
+hiddentest_24,"#Person1#: It seems there are a growing number of new companies in the field of computers who are headed by very young people. Many of them are only in their twenties and already heading up highly successful companies.
+#Person2#: That's true and I think you'll find their style of management to be very different from the traditional type of leadership.
+#Person1#: I think they are more invokes in their companies. They run them as they would run a family. I believe they are more interested in their business and what it will be able to achieve for the good of the world. They don't seem to be as interested in the business as just a way to become rich as their older counterparts are.
+#Person2#: Can you give me some example of their different leadership style?
+#Person1#: Sure, how about this: Young bosses sometimes let their employees bring their children to work, even their pets? Many times they make decisions on the basis of what will be best for their employees instead of what is best for the business.
+#Person2#: I guess young people are more idealistic, so when they have the drive and talent to start a business of their own, they also feel free to manage the business in ways that they believe are ethical and moral.
+#Person1#: Do you think these young businessmen and businesswomen are more ethical and moral than business owners and managers in past generations?
+#Person2#: Yes, I really do. I think businesses in the past haven't been concerned about their employees' personal needs. I think young owners have heard their parents complain about their working situations as they were growing up. Now that they can do things the way they want, they want to change things for the better.
+#Person1#: Right now these young businessmen and businesswomen are making a lot of money, so it is easy for them to demonstrate their lofty ideals. Do you think they will remain true to those ideals during economic hard times?
+#Person2#: I guess we'll just have to wait and see.",leadership style
+hiddentest_25,"#Person1#: This is it.
+#Person2#: I need to add a few classes.
+#Person1#: What classes would you like to add?
+#Person2#: I need to take some classes that will help me transfer.
+#Person1#: Have you finished any classes so far?
+#Person2#: This is my first semester.
+#Person1#: Did you already take the placement test?
+#Person2#: I took it last month.
+#Person1#: What English and math classes were you placed in?
+#Person2#: I got placed in Math 131 and English 1A.
+#Person1#: Okay. I'll register you for both of those classes.",add classes
+hiddentest_26,"#Person1#: Thank you for inviting us to lunch. I am told this is one of the best restaurants in Beijing. I appreciate it very much.
+#Person2#: You're very welcome. Please be seated. Well, how is your visit so far?
+#Person1#: So far so good. Your staff is taking good care of us. I feel very much at home.
+#Person2#: I am glad that we have made much progress this time.
+#Person1#: Sure. And I'm looking forward to our next round of talks.
+#Person2#: Excuse me, bring us the wine, please. Well, please allow me to propose a toast, Ladies and gentlemen, Denver, it is my great pleasure to host this Luncheon in our guests' honor. Over the past four years, our two ministries have established a very constructive relationship. I'm sure your visit will further enhance our cooperation. Now, let me propose a toast to the success of your visit, and the cooperation of our two ministries. Cheers!
+#Person1#: Cheers! Thank you very much, Director. I feel very pleased to join you on this occasion. I fully agree with you, Director, our relationship is very healthy. One of the major purpose of my visit is to further promote our cooperation. I look forward to sharing experience and exchanging views with my Chinese colleagues in the coming days. To your health, Cheers! And once again, thank you for your hospitality.
+#Person2#: Cheers! Cheers! Ah, here are the dishes! This is steamed bass, and this is sweet and sour chop, and ah, try this, lettuce in oyster sauce. By the way, what would you like to drink?
+#Person1#: Beer is OK for me. Well, in return for your hospitality, I'd like to present you a small gift from my boss, Under Secretary Lewis. He asked me to say hello and give this to you in person.
+#Person2#: Thank you and I appreciate it. It's very thoughtful of him. Please remember me to Mr. Lewis when you are back in Washington. I had wonderful conversation with him last time.
+#Person1#: I'll sure do.",business lunch
+hiddentest_27,"#Person1#: Ms. Zhou, I saw your expresses bicycles and racing bicycles over there. They really look smart.
+#Person2#: You said it. Our production is increasing. They are the new and easily packed in a box for carrying wherever you go, a great favorite with young people abroad.
+#Person1#: How much do they weight?
+#Person2#: Those made of all steel have a net weight of around 17. 5 kilos and those of light aluminum alloy are about 16 kilos only.
+#Person1#: That's impressive. What's your model range?
+#Person2#: In general, we have bikes for gents and ladies size 19', 21', 23', 25' and 27'. The colors vary, depending on the buyer's requirement.
+#Person1#: Good. they could be marketable in our area, but such racing bicycles are new to our consumers. We must be handled very carefully right from the beginning. It's no easy thing to open up a new market.
+#Person2#: We understand that there will naturally be problems in sales promotion at the initial stage. We can offer you excellent terms. So we can safely say that good quality and a reasonable price will make our bikes very competitive.",bicycle business
+hiddentest_28,"#Person1#: Good morning, sir! What can I do for you?
+#Person2#: Good morning. I'm interested in your securities markets. Would you please give me some idea of your securities markets?
+#Person1#: Yes. I'm glad to.
+#Person2#: How many major securities markets are there in China mainland?
+#Person1#: Two. One is Hushi which is in Shanghai and the other is Shenshi in Shenzhen.
+#Person2#: How many listed companies are there all together?
+#Person1#: More than one thousand.
+#Person2#: What should I do if I want to buy stock in big corporations?
+#Person1#: First of all, please register with a broking firm and then make corresponding contract with it.
+#Person2#: I see. Thank you for your introduction.
+#Person1#: You are welcome. I hope you will become our customer. We'll offer you our best service.
+#Person2#: I'd think over your suggestion.
+#Person1#: I hope to see you again.
+#Person2#: So do I.",securities markets
+hiddentest_29,"#Person1#: Hello, how can I help you?
+#Person2#: Hi, I've got an electronic ticket.
+#Person1#: May I see you ID?
+#Person2#: Sure.
+#Person1#: You are heading for Beijing today?
+#Person2#: Yes.
+#Person1#: Are you checking any bags in?
+#Person2#: One.
+#Person1#: Have you bags been with you since you packed them?
+#Person2#: Yes.
+#Person1#: Did anybody ask you to take anything for them?
+#Person2#: No.
+#Person1#: You are all OK. Here is your boarding pass. Gate A please.
+#Person2#: Could you make sure my frequent flyer number is in the computer?
+#Person1#: Yes. it is on your boarding pass.
+#Person2#: Thanks.
+#Person1#: Have a nice trip!",check-in
+hiddentest_30,"#Person1#: Must I pay for my income tax?
+#Person2#: Yes, according to our tax code, people whose monthly income is above RMB, 200 yuan have to pay for the income tax.
+#Person1#: You mean every person whose monthly income is above RMB, 200 has to pay for it?
+#Person2#: No, there are some exceptions because of tax relief. Citizens should be taxed in proportion to their ability to pay or in proportion to the benefit they receive from the government. Of fundamental importance is that tax must be fair.
+#Person1#: May I ask someone to fill in the tax returns instead of me?
+#Person2#: You must personally file declarations of your income and pay tax within the prescribed time limit. Thank you for your cooperation.",income tax
+hiddentest_31,"#Person1#: Excuse me, but are you Mr. John Green from New York?
+#Person2#: Yes, I am John Green from New York.
+#Person1#: Allow me to introduce myself. I'm Wang Tong, interpreter from the Light Industrial Products Corporation, Shenyang.
+#Person2#: How do you do?
+#Person1#: How do you do? May I introduce our manager who has come to meet you?
+#Person2#: Yes, please.
+#Person1#: Mr. Green, this is Mr. Liu. And Mr. Liu, this is Mr. Green.
+#Person2#: Welcome to Shenyang, Mr. Green. I'm happy to meet you. How about your flight?
+#Person1#: The weather was fine throughout the flight.
+#Person2#: Glad to hear that. Is this your first visit to Shenyang?
+#Person1#: Yes, it's my first time here and I've been looking forward to it.
+#Person2#: I hope you'll have a pleasant stay here.
+#Person1#: Thank you. I am sure I'll enjoy it. Mr. Liu, I am a stranger. I know nothing of your customs and cannot speak the language. I hope you will give me some suggestions.
+#Person2#: You needn't worry about anything, Mr. Green. The weather here is agreeable. You'll get along perfectly, I assure you. How long do you intend to stay?
+#Person1#: About three weeks.
+#Person2#: Good. We'll have enough time for our talks. And at the intervals between business talks, we'll arrange some sightseeing for you, if you care for it.
+#Person1#: Would I care for it? I must say nothing would please me more.
+#Person2#: Mr. Green, I'm sorry I'll have to leave you now as I have an appointment at 9:00. I'm sure Miss Wang will help you see to your checked luggage and take you to be hotel.
+#Person1#: Thank you.",meet someone
+hiddentest_32,"#Person1#: What can I help you with today?
+#Person2#: I need to talk to you about transferring.
+#Person1#: Where did you want to transfer to?
+#Person2#: I have no idea.
+#Person1#: You have plenty of time to think about it.
+#Person2#: What do I need to do in order to transfer?
+#Person1#: You're going to need to finish your General Education.
+#Person2#: How many classes is that?
+#Person1#: The GE is 60 credits worth of classes.
+#Person2#: Is that a lot?
+#Person1#: You can finish in about two years.
+#Person2#: Oh. That shouldn't be a problem at all.",transfer 
+hiddentest_33,"#Person1#: You haven't said a word about my new suit, Marie. Don't you like it?
+#Person2#: I'm sorry I didn't say anything about it sooner. It certainly is unique. I don't think I've seen anything like it before.
+#Person1#: I know. That's why I bought it. I hate wearing the same styles everybody else is wearing. Do you think it makes me look too big?
+#Person2#: Well, horizontal stripes always make people look larger than they really are. But I really like the fabric. Is it silk?
+#Person1#: Silk and linen. I love the way it feels.
+#Person2#: And the colour is vey unusual.
+#Person1#: Thanks. That's another reason why I like it. You don't see much peach and brown these days.",new suit
+hiddentest_34,"#Person1#: What's your reason for wanting to go to the United States?
+#Person2#: I'm going to join my husband at the University of Mississippi.
+#Person1#: Is your husband currently a student there?
+#Person2#: No, he's a visiting research scholar. His research field is Southern literature. That's why he chose to go to the University of Mississippi at Oxford. William Faulkner's hometown.
+#Person1#: How long have you been married to your husband?
+#Person2#: We've been married for seventeen years.
+#Person1#: How long has your husband been in the United States?
+#Person2#: Eight months.
+#Person1#: How long do you plan to stay there?
+#Person2#: Maybe six months, maybe longer, maybe I'll fly back together with my husband at the end of the year.",visa interview
+hiddentest_35,"#Person1#: What kind of visa do you have?
+#Person2#: It's a student visa.
+#Person1#: When did you enter China?
+#Person2#: I came into the country on May 30, 2001.
+#Person1#: What was your port of entry?
+#Person2#: Guangzhou, White Cloud International Airport.
+#Person1#: We understand that you're not attending school.
+#Person2#: No. I've been attending. But I've been sick recently.
+#Person1#: You've attended only ten days since last June.
+#Person2#: Ten days? No. It's been more than that.
+#Person1#: We've going to have to take away your visa and have you deported.",deportation
+hiddentest_36,"#Person1#: I'm glad to meet you again, sir.
+#Person2#: Me, too.
+#Person1#: Anything I can do for you?
+#Person2#: Yes, please. I've registered with you and deposited some money. Now I'd like to know something about commission and stamp tax.
+#Person1#: We ask 3 thousandths for commission. It is a little cheaper that most other firms. As to stamp tax, it is the same everywhere: two and half thousands.
+#Person2#: 3 thousandths for what?
+#Person1#: Oh, equity turnover.
+#Person2#: Sounds not bad. By the way, what is the least unit of one purchase?
+#Person1#: 100 shares, also known as a round lot.
+#Person2#: I see. Thank you. Well, we can get all the information we need through a computer, can't we?
+#Person1#: Exactly. For further understanding, would you please come with me and I'll show you.
+#Person2#: Why not?",business talk
+hiddentest_37,"#Person1#: What's the aim of tariff?
+#Person2#: The first aim is to increase revenue income, and the tariff serves this function which is called Revenue Duties. The second aim is to protect domestic production and markets, and this kind of tariff is called Protective Duties.
+#Person1#: May I know the classification of tariff?
+#Person2#: Yes, but according to different criterion, there are many kinds of tariff.
+#Person1#: Can you give me an example?
+#Person2#: OK. According to the difference in treatment and implementation, there are Import Surtaxes, Variable Levy, Preferential Duties, and General System of Preferences.
+#Person1#: I know that there are NonTariff Barriers. What's the meaning of NTBs?
+#Person2#: Oh, NTBs refers to make use of some non-tariff steps to restrict import.",tariff
+hiddentest_38,"#Person1#: Have you ever purchased health insurance before?
+#Person2#: I have health insurance now, but I want to look into other choices.
+#Person1#: Do you know if you are interested in an HMO or a PPO?
+#Person2#: Could you explain the difference to me?
+#Person1#: To clarify it for you, with a PPO you pay more but you get to choose your own doctor.
+#Person2#: When I pay for a service, is the payment the same for a PPO or HMO?
+#Person1#: The payment is different. It can be higher for a HMO.
+#Person2#: How much will an HMO cost me per month?
+#Person1#: Go to our website and fill in the questionnaire. Once we have all of your information, we can give you a quote.",health insurance
+hiddentest_39,"#Person1#: Good afternoon, madam. Can I help you?
+#Person2#: Could you tell me my balance in this Letter of Credit?
+#Person1#: Oh, madam! The L/C is exhausted.
+#Person2#: Well, could you find out whether there is a remittance for me from New York?
+#Person1#: Wait for a moment. I'll check for you. Yes, madam. There is a remittance for you. There are five hundred dollars.
+#Person2#: I want to convert the remittance into RMB. What exchange rate you are giving?
+#Person1#: The exchange rate between U.S. dollar and RMB is 826 yuan for 100 U.S. dollars. How much of the remittance do you want to convert into RMB?
+#Person2#: The full amount of the remittance.
+#Person1#: Do you have any means of identification, please?
+#Person2#: Yes, here is my passport.
+#Person1#: Please sign the receipt in duplicate.
+#Person2#: Is it all right?
+#Person1#: OK. five hundred dollars make 4,130 yuan. Here are the cash and your passport. Have a check, please!
+#Person2#: 4,130 yuan, that's right. Thank you very much.
+#Person1#: You're welcome.",exchange money
+hiddentest_40,"#Person1#: Brian, may I have a word with you?
+#Person2#: Of course, Linda. What can I do for you?
+#Person1#: This is difficult for me, because you and I have worked together for ages but I've accepted a position at another company.
+#Person2#: Linda! I wasn't even aware that you'd been scouting around. May I ask you why?
+#Person1#: I want to make it clear that my decision is no reflection on Angel. I've learned a lot here, and I appreciate the opportunity I've been given here.
+#Person2#: Is it what I've done, or haven't done? This news really surprises me.
+#Person1#: Brian, you've really been great to me, and I'm thankful that you've taken me under your wing and taught me so much.
+#Person2#: I must admit that I'm still confused. If there's nothing wrong here. Why are you leaving?
+#Person1#: Well, I feel I've grown professionally as much as I can, and I need some new changes.
+#Person2#: I see. Were there any other reasons?
+#Person1#: To be perfectly honest, the chances for advancement are good, and the money was just too good to turn down.
+#Person2#: Linda, you know how much I value your work. Why didn't you come to me earlier so we could talk about it? We might have had a chance to top the other offer!
+#Person1#: I'm sorry, Brian.
+#Person2#: I suppose it's too late to make any sort of counter offer.
+#Person1#: I'm afraid so, The offer came out of the blue, and I had to make a choice immediately. It was the chance of a lifetime, and I really felt I couldn't turn it down.
+#Person2#: Well, I'm sad to see you go, Linda. But I do wish you all the best in your new career.
+#Person1#: Thanks, Brian. Your understanding and support mean a lot to me. I won't be leaving right away. This is my two week's notice.",new position
+hiddentest_41,"#Person1#: Hello, Professor Guo! I ran into Mr. Li the other day and he told me you were recently appointed head of the English Department at the Beijing Foreign Studies University. Is that true?
+#Person2#: Yes, it is, Mr. Wang.
+#Person1#: Oh I'm delighted to hear it. Please accept my sincere congratulations! I knew it would be only a matter of time before your extraordinary abilities were recognized.
+#Person2#: That's very nice to you to say so, but I think my abilities still leave much to be desired.
+#Person1#: Well, I'm glad to know you have achieved the goal you've been working towards all these years. I wish you the greatest possible success. And again my heartiest congratulations!
+#Person2#: Thank you very much, Mr. Wang.",congratulation
+hiddentest_42,"#Person1#: Could our company receive and spend foreign exchange freely?
+#Person2#: First, you have to open an account in a bank that deals in foreign exchange business in China. The bank would supervise the receipts and expenditures.
+#Person1#: Can we change foreign exchanges for selling our products in China?
+#Person2#: If we're in urgent need of them that can also substitute import products, you can change foreign exchange with approval after Chinese foreign exchange authorities.
+#Person1#: How about foreign workers' foreign exchange income?
+#Person2#: After paying the income tax according to Chinese laws, foreign workers' income can be remitted freely.",foreign exchanges
+hiddentest_43,"#Person1#: Good morning, sir. What can I do for you?
+#Person2#: I want to talk to the manager.
+#Person1#: I'm the manager. Please have a seat.
+#Person2#: I have a complaint to make.
+#Person1#: Go ahead, please.
+#Person2#: I bought a radio set here, but I found it didn't work when I went home. I took this radio set back here. The salesgirl who sold it refused to change for another one. So I'm here to talk to you.
+#Person1#: Could I take a look at the radio set?
+#Person2#: Sure, here you are. You see, it just makes some strange noises and radio signals can't be heard.
+#Person1#: Have you ever opened the back cover?
+#Person2#: No, never. You can see the seal intact.
+#Person1#: Do you take the receipt with you?
+#Person2#: Yes, here is the receipt.
+#Person1#: Okay, you did buy it from here. I'm sorry for the trouble. Please follow me. We'll change for another one for you.
+#Person2#: Thank you.
+#Person1#: Miss Zhang, this gentleman bought a radio set yesterday, but it doesn't work. Please change this one for him.
+#Person3#: OK. I'll get it right away.
+#Person1#: Sir, what about this one?
+#Person2#: Let me see. Mm, this is a good radio set. Thank you.
+#Person1#: You're welcome.",complaint
+hiddentest_44,"#Person1#: Excuse me, can I change money in this hotel? I want to change some RMB to cover my expense here.
+#Person2#: Yes, over there by the reception counter.
+#Person1#: I'd like to change 100 dollars. What is the exchange rate today?
+#Person2#: Sorry, sir. I'm not sure. You will have to ask at the exchange desk. He will tell you the exact rate.
+#Person1#: But where is the exchange desk?
+#Person2#: In the front lobby, sir. And don't forget your passport, sir! You have to show it to the clerk before he changes money to you.
+#Person1#: Oh, I see. Thank you so much for helping me.
+#Person2#: Not at all.",exchange money
+hiddentest_45,"#Person1#: Excuse me. Could you help me to break this 500 U. S. dollar note?
+#Person2#: Certainly. What kind of currency do you want?
+#Person1#: Japanese yen. What is the exchange rate for U. S. dollar against Japanese yen today?
+#Person2#: Our buying rate is 120 yen to one U. S. dollar.
+#Person1#: How much would I get for this note?
+#Person2#: 500 dollars make 60, 000 yen. I'd like to know how I shall give it to you? Will six 10, 000 yen notes be all right?
+#Person1#: Sorry. Would you mind giving me some more small notes? I hope you will give me five 10, 000 yen, five 1, 000 yen and the rest in small notes.
+#Person2#: Certainly. Would you kindly sign the exchange form giving your name and address?
+#Person1#: Sure. Is it all right?
+#Person2#: OK. There are your cash and the exchange memo. Have a check, please.
+#Person1#: That's right. Thanks a lot.
+#Person2#: You're welcome.",exchange money
+hiddentest_46,"#Person1#: Fire department.
+#Person2#: I'd like to speak to someone about a fire I had last night on my farm.
+#Person1#: Do you have a policy with F. P. A?
+#Person2#: I do. That's why I'm phoning you now.
+#Person1#: All right, sir. could you give me the number of the policy?
+#Person2#: It's PA B.
+#Person1#: Can you give me a moment while I look up your records on the computer. Are you Mr. Li, Li Daqing at Grand Farm?
+#Person2#: That's right.
+#Person1#: You say you've had a fire. Can you tell me what happened?
+#Person2#: Well, we woke up in the night to find the barn blazing.",insurance
+hiddentest_47,"#Person1#: The office is having a retirement party for Walter Wright next week.
+#Person2#: Has he worked here a long time?
+#Person1#: Well. I have been here for 15 years and he was here when I came. Walter will have plenty of money when he retires. Money will not be a problem. He has his pension from here at work, he and his wife will both have their social security retirement and he had a good savings program as well.
+#Person2#: I don't think Walter's wife ever worked outside the home. Does she still qualify for social security?
+#Person1#: Wives have the option of taking their own retirement from social security or, as in the case of Walter's wife, they just get a certain percentage of their husband's retirement.
+#Person2#: I know of people who have retirement from several different sources. Paul Haley was in the Navy for 20 years and so qualified for a retirement income there.
+#Person1#: Does he have income from any other sources?
+#Person2#: He taught school long enough to qualify for a retirement there and then he was elected to public office and served for several years and is now getting a retirement income there as well.
+#Person1#: I'm afraid my retirement income is not going to be very good. I haven't planned very well for the future. But I guess it's never late. I had better do something about it.",retirement income
+hiddentest_48,"#Person1#: Tomorrow is my parents' wedding anniversary day, and we'd like to have you join us in a dinner party.
+#Person2#: Congratulations!
+#Person1#: Thank you.
+#Person2#: Where will you celebrate it?
+#Person1#: We're going to have a dinner party at home this time. My brother has just graduated from a vocational school. You know, he is one of the top students in his cooking class.
+#Person2#: That's to say he is a certified cook now.
+#Person1#: Yes.
+#Person2#: Congratulations again.
+#Person1#: Thank you. He is going to prepare some Chinese food for us.
+#Person2#: Wonderful! I'll definitely come.",dinner party
+hiddentest_49,"#Person1#: Hello, Miss Shen, how are you?
+#Person2#: Hello, I'm fine, thank you. And you?
+#Person1#: I'm fine, thanks. Our claiming of Reimburse was refused yesterday by Scotia Bank.
+#Person2#: Why was it refused?
+#Person1#: They said they were supposed to reimburse the payment whose tenor was before Feb. 22, 2002.
+#Person2#: We have changed the tenor to May 1, 2002.
+#Person1#: But they said they didn't receive any information.
+#Person2#: Yes, that was our mistake. I'll send our amendment this afternoon, and you can get your reimbursement tomorrow.
+#Person1#: I hope you send this kind of message in time. It will make our cooperation better.
+#Person2#: Yes, we will try our best to avoid this kind of mistake. Thank you very much for your reminding and patience.
+#Person1#: You are welcome. Bye bye!
+#Person2#: Bye.",reimbursement
+hiddentest_50,"#Person1#: I'm from auto accident department. Are you Mr. Burns?
+#Person2#: Hi, Yes, I am William Burns.
+#Person1#: I'm so sorry for your loss and suffering.
+#Person2#: Thank you. It's very kind of you to say so.
+#Person1#: You know it's brutal for me to ask you questions. But I have to. How did it happen?
+#Person2#: According to the witness, my son was at the stoplight over there when a drunk driver ran right into him, and both cars went airborne hitting a nearby building.
+#Person1#: Oh, I'm really sorry. And I'd like to have some idea about the present condition of the car.
+#Person2#: Sure! Follow me.",car accident investigation
+hiddentest_51,"#Person1#: I'm sorry for your loss. But there's nothing we can do for you.
+#Person2#: Are you kidding? I pay my premium regularly. There is a fire, and I lost everything.
+#Person1#: Listen, Mr. Ma. In the proposal form you were asked whether any inflammable materials were stored on the premises. You said 'no'. But we found that a ground floor storeroom was used to store dreams of petrol.
+#Person2#: And you think I burned my own business premises with these drums of petrol?
+#Person1#: I don't mean that. But the most good faith is one of the principles of insurance. What could we insure if everybody lied to us?
+#Person2#: You are exaggerating the very fact. It's unfair. I cannot accept that.
+#Person1#: Who is exaggerating?
+#Person2#: I will sue you.",fire insurance
+hiddentest_52,"#Person1#: Good morning, is this the Renter's Hotline?
+#Person2#: Yes, what can I help you with?
+#Person1#: I have a question about discrimination in housing.
+#Person2#: What type of discrimination?
+#Person1#: I think that he doesn't want to rent to me because of my race.
+#Person2#: What made you think that your race was a problem?
+#Person1#: He seemed OK talking to me on the phone, but seemed to change his mind when he saw me in person.
+#Person2#: What else made you feel he was discriminating against you?
+#Person1#: Well, he had a 25 unit apartment building and everyone I saw there was his same race.
+#Person2#: Racial discrimination is very hard to prove, but if you would like to come down, we can go over a checklist that can help you build a case.",discrimination in housing
+hiddentest_53,"#Person1#: Did you and your family do anything to protect your property from further losses and damage?
+#Person2#: We managed to get the cattle out of the cowsheds. Then the fire spread.
+#Person1#: This policy doesn't cover the livestock.
+#Person2#: I realize that.
+#Person1#: Do you have the policy in front of you?
+#Person2#: Yes.
+#Person1#: Can you refer to Schedule One?
+#Person2#: Yes, yes. I'm looking at it.
+#Person1#: Can you confirm that the items we're referring to are the outbuildings numbered one to four?
+#Person2#: That's right. Only we managed to save the cowshed number three on the schedule.
+#Person1#: No damage?
+#Person2#: Well, it's badly scorched.
+#Person1#: Do you know how the fire started, Mr. Li?
+#Person2#: Not really, It's an open barn and with this warm dry weather, it can get very hot. It could have been internal combustion. But we've had a fire raiser in the area. Old Zhang lost a couple of haystacks last month and that was deliberate.
+#Person1#: If there's any question of arson, the police will have to be notified.
+#Person2#: I realize that, but there's no way I can tell.
+#Person1#: All right. I'll send you a claim form right away. Incidentally, I'm Zhu Qi. If you have any difficulties in completing the claim form, please free to let me know.
+#Person2#: Thanks for your help. Goodbye.
+#Person1#: Goodbye, Mr. Li.",fire insurance
+hiddentest_54,"#Person1#: I'm the agent of the Gulf Company. I'm afraid there may be some disputes over the results of inspection.
+#Person2#: You can apply for reinspecion within the prescribed time limit.
+#Person1#: Would you tell me whether we, the buyers, have the right to reinspect the goods when the goods arrive? Are we entitled to lodge claims?
+#Person2#: But for this item, it is international practice that the reinspection should be made within 7 days upon the arrival and if any discrepancies are found, you may lodge claims within 30 days.
+#Person1#: What if the results from the inspection and the reinspection are different?
+#Person2#: You can apply to the State Administration for Entry Exit Inspection and Quarantine of the People's of China for reinspection, but this should be done within 15 days upon your receiving the former reinspecion result, and this bureau will make the final conclusion within 60 days.",inspection and reinspection
+hiddentest_55,"#Person1#: I heard you've been promoted recently. Congratulations!
+#Person2#: Thanks. I guess I was just lucky.
+#Person1#: I think you deserve it. You've been working so hard: working for long hours, no vacation for three years, and frequent trips to America.
+#Person2#: Yeah, it was pretty tough in the last few years. But all hard work pays off.
+#Person1#: I always wonder what kinds of jobs are considered good.
+#Person2#: I think monetary reward is a major concern. The more a job brings you, the better it is.
+#Person1#: But money isn't everything. I think job satisfaction is also very important. You have to feel happy while doing your job. Otherwise, it's meaningless even though you're well paid.
+#Person2#: I agree. Really, I think a good job should have a balance between these two factors.
+#Person1#: That's true. What time it is now. Oh, it's too late. Sorry, I can't wait to go home.
+#Person2#: See you next time.
+#Person1#: See you.",a good job
+hiddentest_56,"#Person1#: Do you think I could discuss the environment problem with you?
+#Person2#: Well, now, you have examined the report about the lake water quality?
+#Person1#: The citizens have complaints and wonder why government hasn't come up with a single plan to solve the problem?
+#Person2#: We re trying to find ways. The best we can do now is to talk less and do more.
+#Person1#: Yes. You never can solve problems by talking instead of doing.
+#Person2#: Right! Let's work hard and face the problems together.",environment problem
+hiddentest_57,"#Person1#: Well, Clerk. My policy covers my house against fire, right?
+#Person2#: Correct.
+#Person1#: And there is fire and my house burns to the ground.
+#Person2#: Absolutely.
+#Person1#: I consult an architect, and it is estimated that it will cost $350, 000 to reconstruct the house as it was before the fire. But will you only contribute $200, 000 to the cost of rebuilding?
+#Person2#: You know, an axiom of insurance is indemnity. That's to say the insured cannot expect to make a profit out of the insurance contract.
+#Person1#: But you know, it cannot cover my reconstruction cost.
+#Person2#: I see. But the premium is $3 per $1, 000 of cover and you pay $250 premium per annum. Why?
+#Person1#: I reckoned my house was worth $200, 000.
+#Person2#: That's it. Your policy covers a house worth $200, 000. And according to the contract, my company can only pay you that sum.
+#Person1#: Well, I understand now.",indemnity
+hiddentest_58,"#Person1#: When should we apply for entry?
+#Person2#: Which kind of products do you import?
+#Person1#: Industrial chemicals.
+#Person2#: Then about not less than twenty days before the claim is valid which is prescribed in your contract. If the claim's period of validity is not enough to finish inspection, the applicant must go through the formalities to lengthen the period of validity of claim.
+#Person1#: Where should I apply?
+#Person2#: For import industrial chemicals, and chemical products, it's difficult to take representative samples according to the former batch number, so you should apply to the port.
+#Person1#: What lists should I provide?
+#Person2#: Foreign trade contracts, foreign receipts and bill of lading.
+#Person1#: Thank you!",entry application
+hiddentest_59,"#Person1#: Good morning, Ma'am.
+#Person2#: Good morning.
+#Person1#: Are you Director Xiao, the office manager?
+#Person2#: Yes, I am. Who are you?
+#Person1#: I'm the new secretary.
+#Person2#: Oh, yes. I was out of town last week and didn't get to meet you. What's your name?
+#Person1#: My name's Su Xinxin.
+#Person2#: It's nice to have you with us. We have a lot of work to do here. You'll be very busy. That's your desk over there.
+#Person1#: Thank you. Director Xiao.
+#Person2#: And that's your computer. There's a fax machine at either end of the corridor.
+#Person1#: It's really convenient. I love this place.
+#Person2#: And please call me Xiao Yanli.
+#Person1#: Thank you, Ms. Xiao and I'd like to be called Sue.",meet someone
+hiddentest_60,"#Person1#: Hi, professor, how's everything going today?
+#Person2#: Fine, I'm ready for your second question. What's that?
+#Person1#: My second question is still about money. In ordinary form, is there a blank space between the currency and the amount?
+#Person2#: No, there is not. For example, we should write HK $4,785 instead of HK $4,786.
+#Person1#: Oh, I see. Is there anything I should be aware of when writing money amount?
+#Person2#: On some formal bill, the capital form should begin with 'say' and end with 'only', to highlight the amount. For instance, 'Say five thousand and eighty five pounds sixty pence only'.
+#Person1#: That's interesting. Can you show me another example?
+#Person2#: Sure. 'Say six thousand and seventy seven US dollars only'.
+#Person1#: I get a better understanding of foreign currencies through your explanation. Thank you very much. Goodbye.
+#Person2#: You are welcome. Come here if you have any questions. Bye bye!",explanation
+hiddentest_61,"#Person1#: Is that the manager?
+#Person2#: Yes, I am. Can I be of any assistance?
+#Person1#: This is Ms. Dane, Room 607. I've just received my laundry. There is still a stain in my trousers and my blouse has faded.
+#Person2#: I'm awfully sorry to hear that. I'll put you through to the housekeeper. She'll attend to it right away.
+#Person3#: Hello. Housekeeper.
+#Person2#: OH, hello. This is Ms. Dane from Room 607. It's about my laundry I've just received. There is still a stain in my trousers and my blouse has faded.
+#Person3#: I'm very sorry. May I take your trousers back to the laundry? We'll wash it again. And your blouse, we'll make up the loss somehow. Is there anything else I can do for you?
+#Person2#: No. Thank you.
+#Person3#: You are welcome.",complaint
+hiddentest_62,"#Person1#: Good morning, sir. What can I do for you?
+#Person2#: Can you exchange U. S. dollars for Hong Kong dollars?
+#Person1#: Yes, how much do you want to change?
+#Person2#: Two hundred U. S. dollars. What's the exchange rate today?
+#Person1#: One U. S. dollar to 6. 7 HK dollars. Please show me your passport, sir.
+#Person2#: OK. Here you are, and here are 2 hundred notes. Please give me thirteen 100 HK dollar notes.
+#Person1#: OK. Anything else?
+#Person2#: I have a traveler's letter of credit opened by FEDERAL RESERVE BANK. I'd like to know the rate for this traveler's L/C.
+#Person1#: Oh, let me see, the buying rate is one U. S. dollar to 6. 7 HK dollars.
+#Person2#: Could you tell me why the buying rate is quite different from what you just quoted? Is there any change in the rate?
+#Person1#: I will be very glad to explain it to you. You see foreign currency is not negotiable in china. So we have to send the notes abroad by post and shall not be covered with the fund until a later date. It will also cost us freight and insurance charges in doing so. That is why the buying rate of the notes is lower.
+#Person2#: Oh, I see.
+#Person1#: Will you draw money against your traveler's L/C right now sir?
+#Person2#: No, thank you. Thank you very much for your good explanation and all you've done for me.
+#Person1#: It's a pleasure.",exchange money
+hiddentest_63,"#Person1#: Good afternoon and welcome to Bank of China, it is my pleasure to make your acquaintance. My name is He Wei.
+#Person2#: Mr. He, the pleasure are all ours, we are honored to have the chance to visit your bank.
+#Person1#: Bank of China is a state-owned enterprise and is a specialized foreign exchange bank of the People's Republic of China. And our bank has the longest history among the present banks in China. And now we pay much attention to our traditional business. We are the first to act as agency to handle international credit cards and traveler's cheque.
+#Person2#: How many kinds of currencies can we change in the bank?
+#Person1#: You can change U. S. Dollar, Australian Dollar, Canadian Dollar, Singapore Dollar, Hong Kong Dollar, French France, Swiss Franc, Florin, Japanese yen and Pound Sterling.
+#Person2#: Thank you, Mr. He. Thank you very much for your explanation.
+#Person1#: Not at all. I am very glad to have all for you here. I hope you will come again.
+#Person2#: I hope so. Goodbye!",business visit
+hiddentest_64,"#Person1#: Susan, it's our first time attending such a trade show. I don't quite know how to prepare for it. Would you mind telling me something about it?
+#Person2#: All right. I'll be happy to tell you anything I know.
+#Person1#: How should we get people to come to our booth?
+#Person2#: Yes, it means a lot. First, you should make sure that your display is culturally acceptable and attractive to customers, and then you should try to make the booth noticeable. You could have presentation of your products every hour or two, and at the same time, you could prepare some freebies.
+#Person1#: Cheers! What you say gives me a lot of ideas. What kind of presentation is more attractive, an individual or a group?
+#Person2#: A group presentation creates more interest.
+#Person1#: I see. I'll get busy now with the preparations for the show.",trade show preparation
+hiddentest_65,"#Person1#: I am from a foreign funded enterprise, and we will export a lot of goods to European Union. Can you tell me if we can apply for the General System of Preferences?
+#Person2#: Of course, you can. But first you must go to the inspection and quarantine institution to register yourself.
+#Person1#: What kind of material should we provide?
+#Person2#: The copy of the instrument of ratification for running export business and the copy of your business license are enough. And you must apply to the inspection and quarantine institution for visa five days before you ship your goods. And at the same time, you should submit application and relative documents.
+#Person1#: What? We have to dispatch our goods tomorrow because the buyer needs the goods urgently. What should we do?
+#Person2#: The form of the certificate of origin should be issued before you dispatch your goods, but under this special condition, you can apply for the certificate issued retrospectively.
+#Person1#: What kind of procedure does it need?
+#Person2#: Besides the documents mentioned above, you have to submit the bill of lading of your goods.
+#Person1#: Is that all?
+#Person2#: Yes, with these materials, I think it should be okay.",instruction
+hiddentest_66,"#Person1#: Claim service department.
+#Person2#: Hello! I'm calling to appeal a property insurance claim denial.
+#Person1#: May I have your name, please?
+#Person2#: Mr. Li, Mr. Li Wenming.
+#Person1#: Yes. I've found your name here in the records. You lost your house in a landslide.
+#Person2#: No. It was not a landslide.
+#Person1#: Then what is it?
+#Person2#: It was an earthquake.
+#Person1#: Perhaps there is some misunderstanding here. I'll contact with property insurance department. And we will look into it. I'll talk with you later, all right?
+#Person2#: It's OK. Bye bye!",appeal
+hiddentest_67,"#Person1#: I need help planning my vacation.
+#Person2#: Sure, where would you like to go?
+#Person1#: I haven't decided where to go yet.
+#Person2#: Do you enjoy warm or cold climates?
+#Person1#: I am thinking that I might enjoy a tropical climate.
+#Person2#: I have some brochures here that you might like to look at.
+#Person1#: These look great!
+#Person2#: Do you know how much you want to spend on this vacation?
+#Person1#: I have about a thousand dollars to spend on this trip.
+#Person2#: Well, take these brochures, and get back to me when you want to make your reservations.",vacation planning
+hiddentest_68,"#Person1#: Hello, Nicole here.
+#Person2#: Nicole, this is Richard. I think you know why I'm calling.
+#Person1#: Oh, it's about the rent.
+#Person2#: Yes, this is the second month in a row.
+#Person1#: I thought there was a grace period.
+#Person2#: There is no grace period in the rental agreement.
+#Person1#: Oh, I guess I forgot.
+#Person2#: Well, when can I expect the rent?
+#Person1#: You'll get it by Monday.
+#Person2#: Don't forget the $50 late fee.
+#Person1#: Is that in the rental agreement?
+#Person2#: The late fee is circled in red ink!
+#Person1#: Oh, Well, I can't find my copy of the agreement.
+#Person2#: If you're late next month, I might give you an eviction notice.",late rent
+hiddentest_69,"#Person1#: I have to apologize.
+#Person2#: What happened?
+#Person1#: The medical instruments you've ordered are very popular in the market these days. I'm afraid we can't give you 50 pieces at one times.
+#Person2#: Then how many are available now?
+#Person1#: Maybe 20 pieces?
+#Person2#: Okay. But what about the 10% discount that we have agreed?
+#Person1#: We can still give you 10% off as promised.
+#Person2#: That's OK.
+#Person1#: Then you can open the relevant letter of credit now. We'll make preparation for delivery.
+#Person2#: We'll open it right now and send it through our bank.
+#Person1#: We'll dispatch the goods as soon as we receive it.
+#Person2#: Great!",goods order
+hiddentest_70,"#Person1#: Let's discuss the delivery date first. You offered to deliver within six months after the contract signing.
+#Person2#: Yes. The interval is too long, I'm afraid. Could you deliver the goods sooner?
+#Person1#: I must say we can do very little in this matter. But we'd like to hear more from you on this. Then we shall see what can be done.
+#Person2#: Our idea is that you deliver within three months after the contract signing.
+#Person1#: Impossible! As you know, most parts of our product are produced here in our factory, but we also have some OEM parts. We have to order from them first.
+#Person2#: I see. Please let us know as soon as you get them.
+#Person1#: I'll certainly do that.",goods delivery
+hiddentest_71,"#Person1#: Oh, hello. Mr. Anderson.
+#Person2#: Hello, Susan.
+#Person1#: Nice of you to come to the party. This is Mrs. Anderson, I suppose?
+#Person2#: Yes. That's Helen.
+#Person3#: Hello! Nice to meet you!
+#Person1#: Well, Mrs. Anderson, welcome! My name's Susan Stewart, and as you know I work with your husband in the company. Do come in. Please.
+#Person3#: Thank you Susan.
+#Person2#: In fact, Susan is one of our brightest young women.
+#Person3#: Really? Yes, think you've mentioned her to me before, actually.
+#Person1#: What would you like to drink, Mrs. Anderson?
+#Person3#: Er, gin tonic. With ice and lemon?
+#Person1#: Gin and tonic. With ice and lemon.
+#Person3#: Yes, please.
+#Person1#: Oh, can I just introduce you to this is George Wilcox. Mr. and Mrs. Anderson.
+#Person3#: Oh!
+#Person4#: I think we know each other.
+#Person3#: Yes, I recognize your face.
+#Person4#: Yes, yes. Evening classes.
+#Person3#: That's right, yes. You come to French classes in evening.
+#Person4#: That't right.
+#Person3#: What a coincidence!
+#Person4#: Yes, it's a small world, isn't it?
+#Person3#: Well, George. I wonder if you've met my husband. I don't suppose you have met my husband.
+#Person4#: No, I haven't. How do you do, Mr. Anderson?
+#Person2#: Hello, George. Very nice to meet you.",greetings and parting
+hiddentest_72,"#Person1#: Secretary Zhang, do you like traveling?
+#Person2#: Yes, very much. You know, I am awfully busy as a secretary, I want badly to relax myself. Traveling is really the best way to relax.
+#Person1#: Next week is the holiday. How about going sightseeing?
+#Person2#: Sounds great. Have you got any idea on the tour route, Li Dan?
+#Person1#: Not yet. Let's work it out together after work?
+#Person2#: Good idea. Shall we go to have a cup of coffee after work?
+#Person1#: How about the coffee shop next to our bureau?
+#Person2#: OK.",vacation plan
+hiddentest_73,"#Person1#: What coverage will you take out for the goods I've ordered?
+#Person2#: Did we conclude the business on CIF basis?
+#Person1#: Yes, CIF.
+#Person2#: Then we'll only insure W. P. A.
+#Person1#: Could you cover the Risk of Breakage for us?
+#Person2#: Risk of Breakage is classified under extraneous risk. As long as you put forward this request, we can cover the Risk of Breakage for you.
+#Person1#: Who will pay the premium for it?
+#Person2#: The additional premium is for buyer's account. That's for your account.
+#Person1#: That's understood.
+#Person2#: So, for this consignment, we shall cover W. P. A. and Risk of Breakage for 110% of the invoiced value.",coverage negotiation
+hiddentest_74,"#Person1#: Can we make payment by D/A?
+#Person2#: I'm sorry. We generally only accept payment by D/P or irrevocable letter of credit payable against shipping documents.
+#Person1#: If that is the case, we'll have to follow your convention.
+#Person2#: Thank you. And could you send us the L/C 30 days in advance? On receipt of your L/C we'll make the necessary arrangement for the shipment.
+#Person1#: OK. We'll instruct our bank to open an irrevocable documentary letter of credit in your favor.
+#Person2#: That's all right. Thank you.",payment negotiation
+hiddentest_75,"#Person1#: Do you have an appointment?
+#Person2#: Yes, I have an appointment.
+#Person1#: The DMV windows are set up for different tasks. What are you here to do?
+#Person2#: I need to transfer ownership of a used car.
+#Person1#: I can see that you have all of your forms filled out. Drop the forms in that box, and I will call you when your name comes up.
+#Person2#: Thanks for helping me.
+#Person1#: You are welcome. May I see your current Driver's License?
+#Person2#: Here is my license, it is not a very good picture of me!
+#Person1#: That's a pretty good picture. Just pay the fee over at the last window and you're done!",ownership transferring
+hiddentest_76,"#Person1#: That rain is really coming down out there!
+#Person2#: Yes, it's kind of crazy weather outside.
+#Person1#: I get kind of nervous flying in this kind of weather.
+#Person2#: I don't think anyone feels all that comfortable flying in a storm.
+#Person1#: Do you think it will be this bad the whole trip?
+#Person2#: On the weather channel, this storm looked to be a big one. It will probably be with us for a while.
+#Person1#: I worry about too much ice on the wings.
+#Person2#: I have to believe that our pilot knows what he is doing and we'll be okay.
+#Person1#: When do you think the pilot will turn off the Fasten Your Seatbelt sign?
+#Person2#: He'll turn it off as soon as he knows that we are through the turbulence.
+#Person1#: Do you think that we are going to crash?
+#Person2#: Maybe. You just never know.",flight in storms
+hiddentest_77,"#Person1#: I really love the look of this car.
+#Person2#: Would you like to test drive this car?
+#Person1#: Yes, I would love to take it for a drive.
+#Person2#: I'll go get the keys, and you can get out your Driver's License and Proof of Insurance.
+#Person1#: Here's my Driver's License and Proof of Insurance.
+#Person2#: Well, just sign this card, and we'll be on our way. Don't forget to buckle your seat belt!
+#Person1#: Can I take it on the freeway to check for acceleration?
+#Person2#: That would be fine; just don't exceed the speed limit!
+#Person1#: This car handles great, and I love it!
+#Person2#: I am glad that you like this car.",test drive
+hiddentest_78,"#Person1#: I was wondering if you could help me book a few tours.
+#Person2#: You have come to the right place. How many days will you be visiting here?
+#Person1#: I will be here for a week.
+#Person2#: Have you ever visited our city before?
+#Person1#: This is my first time visiting this city.
+#Person2#: What are you interested in? Do you enjoy museums and buildings, or would you rather hit some outdoor hotspots and venues?
+#Person1#: I really enjoy visiting museums and art galleries.
+#Person2#: We have tours for all interests.
+#Person1#: Do you have a city tour?
+#Person2#: Yes, in fact, I usually suggest that to visitors.",tour plan
+hiddentest_79,"#Person1#: Information Service Department. What can I do for you?
+#Person2#: This is Rainbow Import & Export Company, Beijing. We'd like to do business with Morning Light Medical Instruments Company. Before that, we want to know about their business status.
+#Person1#: Wait a minute, please. Ah, yes, ML has been our client for more that six years. It's a private company and enjoys good reputation in this area. As far as we know, it's always punctual to meet it commitments. It seems to be safe to do business with them.
+#Person2#: Good. Now we can do business with them with assurance. Thank you.
+#Person1#: You are welcome. Goodbye.
+#Person2#: Byebye.",company investigation
+hiddentest_80,"#Person1#: That was a good lunch. It really hit the spot. Did you enjoy yours?
+#Person2#: Very good, thank you. Shall we get to the matter at hand?
+#Person1#: Yes, of course. I think I have an alternative that may solve everyone's problem.
+#Person2#: What's that?
+#Person1#: My client believes the present installation is fine as it is but she wants to avoid expensive litigation, so in order to appease everyone, she'll move the unit to the roof at her own cost. To prevent the conduit from being visible from the street, she is willing to pay to have it penetrate the roof.
+#Person2#: You know the board can't allow that. The building's documents don't give them the authority.
+#Person1#: I've received the documents. I think they do.
+#Person2#: I don't know how you can say that. That's a major change to the building's common area, the roof. Not only is it against the documents, it's contrary to state law.
+#Person1#: Well, I don't see how you can call that a major change to the common elements. We believe it's a minor change, and that it really affects no one but my client. Therefore, it is within the board's authority to grant my client's request.
+#Person2#: Well, you may be right except for one thing: penetrating the roof will compromise its integrity, and that is a major issue. That definitely moves it beyond the scope of board's authority.",illegal installation
+hiddentest_81,"#Person1#: Hi, John.
+#Person2#: Hello, Sue.
+#Person1#: Hey, it's really nice of you to come. I wasn't sure that you'd be able to.
+#Person2#: No, I wasn't certain I could make it either, but still I managed to get here.
+#Person1#: Hey, great! Come in.
+#Person2#: Oh, thanks very much. I can't stay long, I'm afraid. But I hope that's all right.
+#Person1#: Yeah, any problem?
+#Person2#: Well, no. It's just that I've got to meet someone later on.
+#Person1#: Oh, I see. OK, fine. Well, anyway, come in and have a drink.
+#Person2#: Lovely.",greeting
+hiddentest_82,"#Person1#: Excuse me. Do you have any vacancies tonight?
+#Person2#: I'm sorry. We're completely booked. Oh, wait. I see someone canceled earlier today. We have one single room left.
+#Person1#: Great. I need to get some sleep.
+#Person2#: It's 700 dollars plus tax. Is that all right?
+#Person1#: Yes, that's fine.
+#Person2#: Just write down your name and address on this form. Will you be paying by credit card?
+#Person1#: Yes.
+#Person2#: May I see your card for a moment, so I can write down the number?
+#Person1#: Yes. Here you are. Oh, by the way, will you give me a wakeup call at 7:30 tomorrow morning?
+#Person2#: Certainly. Let me write that down hmm, seven thirty, okay! Here's your room key. You're in 714.",hotel
+hiddentest_83,"#Person1#: Good morning!
+#Person2#: Good morning. I have an appointment with Mr. Chen Gui, the Account Manager, at 10:30.
+#Person1#: May I have your name, please?
+#Person2#: Mr. Simmonds from Mingda Trading Company.
+#Person1#: OK. I'll call the manager assistant right now.
+#Person2#: Mr. Chen Gui's office.
+#Person1#: This is reception. Mr. Simmonds from Mingda Trading Company is here for his 10:30 appointment.
+#Person2#: Oh, yes, that's right. I'll come and fetch him now.
+#Person1#: Thanks. Mr. Chen Gui's secretary is coming down now. There are some newspapers on the shelf if you'd like to read them.
+#Person2#: Thank you.
+#Person1#: Thanks. Bye.
+#Person2#: Bye.",reception
+hiddentest_84,"#Person1#: We've considered your price and thought it acceptable.
+#Person2#: That's good. Then how many do you want?
+#Person1#: Can we just place a small order first? If they do sell well, we'll come back for more orders.
+#Person2#: That's all right. But I'd like to tell you that this kind of product represents the development trend in the next decade. Even in the United States, there are only a couple of manufacturers who can make it. And don't forget the 10% off if you buy 50 pieces.
+#Person1#: In that case, we'll order 50 of it.
+#Person2#: That's good. Then shall we sign the agreement now?
+#Person1#: OK.",goods order
+hiddentest_85,"#Person1#: What can I do for you?
+#Person2#: I came to you for advice on how to promote trade with China and other Asian countries?
+#Person1#: You are most welcome.
+#Person2#: The Chinese government seems to offer much encouragement to developing various flexible forms of trade. An idea came upon me while visiting the World Fair that I should adopt one of those forms to get inside the mainland territory. What would you suggest that I should do for our saloon car exports to Asia?
+#Person1#: Why don't you take advantage of the cheaper labour and the preferential polices in the Chinese coastal areas?
+#Person2#: In what way, please?
+#Person1#: You can produce the saloon car in China and sell them there and to other Asian countries. This can be done either on the basis of export processing or compensation trade.
+#Person2#: Hm I think the compensation trade arrangements suit me fine. Thank you very much for information.",trade advice
+hiddentest_86,"#Person1#: I just arrived and need help getting transportation to my hotel.
+#Person2#: There are shuttles, taxis, and buses that go all over the city.
+#Person1#: Which one is the best form of transportation?
+#Person2#: It depends on where you want to go. If you are going to a well-known hotel, they have their own shuttles that drop you right off at the door.
+#Person1#: Where can I catch a cab?
+#Person2#: All ground transportation leaves from the island as you walk out the arrivals gate.
+#Person1#: Where can I rent a car?
+#Person2#: The car rental agencies are against the wall as you exit.
+#Person1#: Are there any subways in this town?
+#Person2#: We have a subway system, but you need to take a shuttle to get to the station.",city transportation
+hiddentest_87,"#Person1#: Hey, I got this parking ticket. Can you help me figure a way out of it?
+#Person2#: First of all, did you park somewhere too long or in the wrong spot?
+#Person1#: I was there too long.
+#Person2#: Was the area clearly labeled with the time limit and all?
+#Person1#: Yeah, I saw it.
+#Person2#: You will need to convince the judge that you couldn't see the signs.
+#Person1#: Yeah, I understand.
+#Person2#: Whatever you do, you need to be respectful and polite to the judge.
+#Person1#: Yeah, you're right.
+#Person2#: Just try to talk to him about how sorry you are about the mistake you made, and promise that it won't happen again.
+#Person1#: OK, I will.",parking ticket
+hiddentest_88,"#Person1#: I have booked airline tickets online many times. It has worked out great for me!
+#Person2#: How do you book airline tickets online?
+#Person1#: The best way is to go to a website like Travelocity or Expedia. They can help you find the best price.
+#Person2#: What information do I need to provide to book a flight?
+#Person1#: You need to know where you are going and when you want to travel.
+#Person2#: How do I get the cheapest rate?
+#Person1#: Usually you get the best price by having some flexibility in your travel time and dates.
+#Person2#: Can I fly on different airlines?
+#Person1#: You can choose the airline you prefer to fly with or let the website find you the best deal.",book tickets online
+hiddentest_89,"#Person1#: Thank you for helping me move.
+#Person2#: Don't mention it. Where do you want all your furniture?
+#Person1#: Okay, I want you to put the sofa in the living room.
+#Person2#: Would you like me to put it anywhere special?
+#Person1#: No, up against the wall is just fine.
+#Person2#: Where would you like this table?
+#Person1#: That table should go in the dining room.
+#Person2#: Would you like me to put it anywhere in particular?
+#Person1#: You can place it right in the center of the room.
+#Person2#: How are things looking so far?
+#Person1#: I think the furniture looks nice in here.
+#Person2#: You're absolutely right.",place the furniture
+hiddentest_90,"#Person1#: Now the price issue is settled. May I ask you a question?
+#Person2#: Go ahead, please.
+#Person1#: Could you agree to payment by D/A? This is a sample order.
+#Person2#: Occasionally we do. But we will consider that when we make you the firm offer.
+#Person1#: Thanks.
+#Person2#: I hope after the first supply your customers will place regular orders.
+#Person1#: For regular orders, couldn't you agree to payment by L/C at 90 day's sight?
+#Person2#: I am afraid not. Our usual practice is L/C at sight.
+#Person1#: I see.
+#Person2#: The car is coming to pick us up. We will discuss that later.
+#Person1#: Good idea.
+#Person2#: Let's go.",order payment
+hiddentest_91,"#Person1#: It's a quite nice restaurant, isn't it, Director Hu?
+#Person2#: Sure. I often have my lunch here. The food is tasty and they offer a big variety.
+#Person1#: Yes, the beefsteak is inviting. I'll have beefsteak.
+#Person2#: I'll have some fish and vegetables.
+#Person1#: Where shall we seat?
+#Person2#: How about by the window?
+#Person1#: OK. You go first.
+#Person2#: Xiao Liu. Where do you have lunch during your work time?
+#Person1#: In the dining room of Education Bureau. What about you?
+#Person2#: I often have lunch at home. My house is near my working place.",order food
+hiddentest_92,"#Person1#: Hangzhou is beautiful and the weather is marvelous.
+#Person2#: I know why it is called paradise on earth.
+#Person1#: Please hurry up. I really can't wait to see the West Lake.
+#Person2#: Don't worry. Look, here we are.
+#Person1#: What a beautiful lake!
+#Person2#: The beautiful scenery was beyond my imagination.
+#Person1#: It is the biggest lake I've ever seen before.
+#Person2#: Look, there is an island in the middle of the lake.
+#Person1#: Look there! What's that building on the island?
+#Person2#: I don't know. shall we rent a boat to go there?
+#Person1#: Good idea!",sightseeing
+hiddentest_93,"#Person1#: I need your help with something.
+#Person2#: What's wrong?
+#Person1#: I somehow locked myself out of my apartment.
+#Person2#: How did you lock yourself out?
+#Person1#: I'm really not sure.
+#Person2#: Where's your key?
+#Person1#: I locked it inside the house.
+#Person2#: I do have a spare key to your door.
+#Person1#: May I use it, please?
+#Person2#: Okay, but once you get in, bring my key right back.
+#Person1#: I will, and thank you so much.
+#Person2#: Make sure to keep your key with you next time.",borrow a key
+hiddentest_94,"#Person1#: Hi. I'm Jack. You called about the room for rent. Are you still interested?
+#Person2#: Yes, I am.
+#Person1#: I was wondering if I could ask you a couple of questions.
+#Person2#: Shoot.
+#Person1#: I just want to be sure that we get along.
+#Person2#: I agree with you 100 percent--we must get along.
+#Person1#: Are you a party animal?
+#Person2#: Oh, no. I'm a very quiet person.
+#Person1#: Great! Next: Are you neat or are you a slob?
+#Person2#: I'm a pretty neat person.
+#Person1#: Are you a night owl or a day person?
+#Person2#: Early to bed, early to rise.
+#Person1#: Finally, do you smoke?
+#Person2#: Actually, I quit smoking four years ago.
+#Person1#: Excellent answers. Do you have any questions for me?
+#Person2#: Just one: Is there a parking lot?
+#Person1#: Unfortunately, you have to park in the street.
+#Person2#: Well, I'm desperate. I'll take it anyway.
+#Person1#: Great! Let me know when you're ready to move in.
+#Person2#: I think it will be tomorrow if that's okay.
+#Person1#: No problem. I'll be here all day tomorrow.",rent a room
+hiddentest_95,"#Person1#: Since it is the first time we are doing business with you, I am afraid I am not quite clear on the arbitration clause.
+#Person2#: Anything particular you want to know?
+#Person1#: Please explain it in general.
+#Person2#: OK. Generally speaking, we hold all disputes can be settled amicably by negotiation.
+#Person1#: If negotiation fails, then what?
+#Person2#: The case may be submitted for arbitration in a third country, countries like Switzerland and Sweden.
+#Person1#: I see.
+#Person2#: The decision of the arbitration shall be accepted as final and binding upon both parties.
+#Person1#: What about the cost?
+#Person2#: The arbitration cost shall be borne by the losing party.
+#Person1#: Thank you for your time. Now I understand.
+#Person2#: It's my pleasure.",arbitration clause explanation
+hiddentest_96,"#Person1#: Hi. How can I help you today?
+#Person2#: Well, my window facing the empty lot is broken.
+#Person1#: Oh, that's not good. What happened?
+#Person2#: I don't know. I wasn't home when it happened.
+#Person1#: Do you have any clue who might have done this?
+#Person2#: I have a feeling that it might have been the neighborhood kids.
+#Person1#: Why, what leads you to that suspicion?
+#Person2#: Well, next to the broken glass was a baseball.
+#Person1#: Well, a baseball is certainly solid evidence.
+#Person2#: I saw them playing just before I left my apartment.
+#Person1#: Well, did you recognize any of them?
+#Person2#: No, I just took a quick look.
+#Person1#: Well, it'll take a couple of days to repair it.
+#Person2#: A friend of mine is in the business. How about if I call him?
+#Person1#: That's okay by me. First, let me come see the damage.
+#Person2#: Come on over. So does my friend charge you or me?
+#Person1#: Since you didn't break it, you don't have to pay for it.
+#Person2#: That's a relief. I thought I was going to get stuck with the bill.
+#Person1#: If I knew which kid did it, I would bill his parents.",a broken window
+hiddentest_97,"#Person1#: Mr. Zhao, how long have you worked for MOFCOM?
+#Person2#: Four years, I joined MOFCOM in 1999.
+#Person1#: Which department are you affiliated with?
+#Person2#: I am now with the Protocol Department, I am an interpreter.
+#Person1#: No wonder your English is so good. Where did you learn your English?
+#Person2#: Thank you for saying that. Well, mostly in China. Three years at high school and four years of intensive training at university, plus a short stay in the U. S. two years after I joined MOFCOM.
+#Person1#: Terrific.
+#Person2#: Well, here we are at the hotel. Can you check in all by yourself?
+#Person1#: Sure, yes. Thank you for all you have done for me, Mr. Zhao. I will see you later.
+#Person2#: Sure. Have a good day, Mr. Smith.",casual talk
+hiddentest_98,"#Person1#: Yes, I can hear them. What is that pounding sound?
+#Person2#: I think that they are hammering nails to hang pictures.
+#Person1#: How often do you hear them making noise?
+#Person2#: They play their music really loud, and I can hear it.
+#Person1#: Have you spoken to them about the noise problem?
+#Person2#: No, I haven't spoken with them about it.
+#Person1#: What else do you hear that bothers you?
+#Person2#: I hear a lot of plumbing sounds, like the toilet flushing and the dishwasher running.
+#Person1#: If this continues, I would speak to the manager.",complaint
+hiddentest_99,"#Person1#: I can help you. Do you have a down payment?
+#Person2#: Yes, I have saved up three thousand dollars for a down payment.
+#Person1#: Good, because you will not be able to get a loan without putting some money down on the car.
+#Person2#: I don't know where exactly to get a loan.
+#Person1#: Other than friends or family, you can go to a bank, credit union, or use the dealer financing if you bought the car off a car lot.
+#Person2#: What is the best choice for financing?
+#Person1#: It depends. The worst financing deal is usually at the dealer, but they will oftentimes give you a loan when a bank turns you down.
+#Person2#: What do I need to have with me when I apply for the loan?
+#Person1#: You will need a recent pay stub and a copy of the pink slip for the car. Before the loan is complete, you will need to show proof of insurance. Good luck!",loan

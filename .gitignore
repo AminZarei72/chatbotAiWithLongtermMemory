@@ -1,1 +1,18 @@
-openaiapikey.txt
+.directory
+nexus
+internal_notes
+memories
+conversationLogs
+selfTalkLogs
+# rawDatasets
+node_modules
+*.bk
+gpt3_logs
+logs
+tmp
+vectors
+.env
+pythonProxyServer/.env
+pythonProxyServer/__pycache__/
+documents.txt
+

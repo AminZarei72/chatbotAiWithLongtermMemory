@@ -1,0 +1,285 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      //==========================================================
+      
+    //=======================================================
+     
+function docExists(id, table) {
+    return (
+        exists(/databases/$(database)/documents/$(table)/$(id))
+    )
+}
+
+function docExistsAfter(id, table) {
+    return (
+        existsAfter(/databases/$(database)/documents/$(table)/$(id))
+    )
+}
+
+function getData_(tbl, id) {
+    return (
+        get(/databases/$(database)/documents/$(tbl)/$(id)).data
+    )
+} 
+
+function getDataAfter_(tbl, id) {
+    return (
+        getAfter(/databases/$(database)/documents/$(tbl)/$(id)).data
+    )
+} 
+
+function isNumber(field) {
+    return isInt(field) || isFloat(field)
+}
+
+function isFloat(field) {
+    return field is float
+}
+
+function isInt(field) {
+    return field is int
+}
+
+function isString(field) {
+    return field is string
+}
+
+function isBool(field) {
+    return field is bool
+} 
+ 
+ 
+ function uidRecordExistIn(table) {
+    return (
+        exists(/databases/$(database)/documents/$(table)/$(request.auth.uid))
+    )
+}//native functions
+function docExists2(id, table) {
+    return ( 
+        exists(/databases/$(database)/documents/$(table)/$(id)) 
+    )
+}
+  
+
+    //=======================================================
+        
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    function str(textValue) {
+        return textValue;
+    }
+    
+
+    function getCurrentValues() {
+        let reqData = resource.data;
+        return reqData;
+    }
+    
+
+    function getReq() {
+        let reqData = request.resource.data;
+        return reqData;
+    }
+    
+
+    function getData(tbl, id) {
+        let reqData = getData_(tbl, id);
+        return reqData;
+    }
+    
+
+    function getDataAfter(tbl, id) {
+        let reqData = getDataAfter_(tbl, id);
+        return reqData;
+    }
+    
+
+    function numBetween(field, start, end) {
+        return (request.resource.data[field] >= start && request.resource.data[field] <= end);
+    }
+    
+
+    function strBetween(field, start, end) {
+        return (request.resource.data[field].size() >= start && request.resource.data[field].size() <= end);
+    }
+    
+
+    function allowToUpdate(allowToUpdatefieldsArr) {
+        return (request.resource.data.diff(resource.data).affectedKeys()
+            .hasOnly(allowToUpdatefieldsArr));
+    }
+    
+
+    function fieldsEqualTo(fieldsArr) {
+        let tmp_fieldsArr = fieldsArr;
+        let data = request.resource.data.keys();
+        let a1 = tmp_fieldsArr.removeAll(data);
+        let a2 = data.removeAll(tmp_fieldsArr);
+        let res = a1.size() == a2.size();
+        return (res);
+    }
+    
+
+    function include(item, targetArr) {
+        return (item in targetArr.toSet());
+    }
+    
+
+    function toObj(targetArr) {
+        return targetArr.toSet();
+    }
+    
+
+    function getDiffItems(objA, objB) {
+        return objA.difference(objB.toSet());
+    }
+    
+
+    function getSharedItems(objA, objB) {
+        return objA.intersection(objB.toSet());
+    }
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+   
+
+   
+       function minimumCharsInTitle(){ return 6 ; }
+
+       function maximumCharsInTitle(){ return 20 ; }
+
+       function asdasd(){ return minimumCharsInTitle()  + minimumCharsInTitle()  ; }
+
+    
+    
+
+    
+
+    
+
+    function titleIsValid(title) {
+        return (title.matches('[A-Za-z][A-Za-z0-9]*') &&
+            title.size() >= minimumCharsInTitle()  &&
+            title.size() <= maximumCharsInTitle() );
+    }
+    
+    
+
+    
+
+    
+
+    function create_todo(id) {
+        let reqData = getReq();
+        return (request.auth != null &&
+            docExists(request.auth.uid, 'users') &&
+            !docExists(id, 'todos') &&
+            fieldsEqualTo([
+                'title',
+                'comments',
+                'status',
+                'createdBy',
+            ]) &&
+            titleIsValid(reqData.title) &&
+            reqData.status == str('waiting') &&
+            isString(reqData.comments) &&
+            reqData.createdBy == request.auth.uid);
+    }
+    
+    
+
+    
+
+    
+
+    function list_todo() {
+        let currentValues = getCurrentValues();
+        return (request.auth != null &&
+            docExists(request.auth.uid, 'users') &&
+            currentValues.createdBy == request.auth.uid);
+    }
+    
+
+    function get_todo(id) {
+        let currentValues = getCurrentValues();
+        return (docExists(id, 'todos') &&
+            docExists(request.auth.uid, 'users') &&
+            request.auth != null &&
+            currentValues.createdBy == request.auth.uid);
+    }
+    
+    
+
+    
+
+    
+
+    function update_todo(id) {
+        let currentValues = getCurrentValues();
+        let reqData = getReq();
+        return (request.auth != null &&
+            docExists(request.auth.uid, 'users') &&
+            reqData.createdBy == request.auth.uid &&
+            docExists(id, 'todos') &&
+            fieldsEqualTo([
+                'status',
+            ]) &&
+            currentValues.status == str('waiting') &&
+            (reqData.status == str('done') ||
+                reqData.status == str('delayed')));
+    }
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+        match /todos/{id} {
+            
+		 allow create: if create_todo(id);
+		 allow update: if update_todo(id);
+		 allow get: if get_todo(id);
+		 allow list: if list_todo();
+        }
+
+        
+    //=======================================================
+    
+      //========================================================== 
+    }
+  }
+}
