@@ -1,6 +1,6 @@
 {
   "name": "chatbotAiWithLongtermMemory",
-  "description": "An example app created with Deno",
+  "description": "chatbot Ai with long-term memory and additional inputs",
   "author": "aminZarei72",
   "type": "module",
   "tasks": {
