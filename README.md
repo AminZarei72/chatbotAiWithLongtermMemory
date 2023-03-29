@@ -1,28 +1,23 @@
 
-✨✨a personal Ai with a long-term memory ✨✨
- 
-this project is a fork of [LongtermChatExternalSources](#@https://github.com/daveshap/LongtermChatExternalSources.git) which i tought between all of the hypes of making a big models , needed a little more attention.
-we already have models out there that have better reaoning than humans. so to make the epoclypse happens faster, he gave them a long-term memory.
+✨✨a personal Ai with long-term memory ✨✨
 
-my only problem with the [David Shapiro](#@https://github.com/daveshap) project was using a big model like gpt3 ,which wont show the real effect of long-term memory and additional-data because they already can predict all kinds of senarios under the hood.
+this project is a fork of [LongtermChatExternalSources](#@https://github.com/daveshap/LongtermChatExternalSources.git)which I thought between all of the hypes of making big models, needed a little more attention. we already have models out there that have better reasoning than humans. so to make the apocalypse happens faster, he gave them a long-term memory.
+My only problem with the [David Shapiro](#@https://github.com/daveshap) project was using a big model like gpt3, which won't show the real effect of long-term memory and additional data because they already can predict all kinds of scenarios under the hood.
 
-<!-- 
-so in this project i intentionally used small models which not only shows us how we are improving the model undrestanding but also gives us benefit of privacy and decentralazation(you can run this in a 8core cpu) 
- -->
 
-## so in short why i made this project: 
+## so in short why I made this project: 
 
 - test how much we can improve context-awareness of a small model
 
 - convert it to TS(Deno)
-    - i belive if all of ML tools were developed around js(with its massive comminuty) ,instead of a having new frontend NPM package each day,we'd be making gpt10 while gpt9 was funding us.
+    - I believe if all of the ML tools were developed around js(with its massive community), instead of a having new frontend NPM package each day, we'd be making gpt10 while gpt9 was funding us.
 
 - a personal chatgpt-like assistant:
-    - you can replace model(current model can be run on a 8-core cpu )
-    - in order to have a real Ai assistant, we have to give all of our personal details to the model , so can you trust big companies!?
+    - you can replace model(current model can be run on a 8-core CPU )
+    - in order to have a real Ai assistant, we have to give all of our personal details to the model, so can you trust big companies!?
 
 - boring holidays:
-    - cure my infinit bordom while practicing prompt enginiering and testing new chatgpt like Ais to work on a languages like python that i have almost 0.1% knowledge compared to Ts.
+    -to cure my infinite boredom while practicing prompt engineering and testing new chatgpt like Ais to work on languages like Python that I have almost 0.1% knowledge of compared to Ts.
     
 
 ----------------
